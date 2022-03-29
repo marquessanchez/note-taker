@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/marquessanchez/note-taker/issues"
   },
-  "homepage": "https://github.com/marquessanchez/index.html",
-  "dependencies": {
-    "express": "^4.17.3"
-  }
+  "homepage": "https://github.com/marquessanchez/index.html"
 }
