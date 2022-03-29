@@ -1,9 +1,14 @@
 {
   "notes": [
     {
-      "title": "",
-      "text": "",
-      "id": ""
+      "title": "clean room",
+      "text": "dust\nvacuum\ndo laundry\norganize closet",
+      "id": "0"
+    },
+    {
+      "title": "grocery store",
+      "text": "apples\nwheat bread\ncheese\nsun dried tomatoes\ncereal\ncream cheese",
+      "id": "1"
     }
   ]
 }
